@@ -6,6 +6,7 @@
     <p>这是B分支代码</p>
     <div>
       商品的功能
+      <p>test goods</p>
     </div>
 
     <div>
