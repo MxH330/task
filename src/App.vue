@@ -4,6 +4,18 @@
 
     <p>这是A分支的代码</p>
     <p>这是B分支代码</p>
+    <div>
+      商品的功能
+    </div>
+
+    <div>
+      店铺的功能
+    </div>
+
+    <div>
+      客户的功能
+    </div>
+
     <router-view></router-view>
 
   </div>
