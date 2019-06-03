@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <app-header title="白瑞红"></app-header>
+    <p>这是B分支代码</p>
     <router-view></router-view>
 
   </div>
