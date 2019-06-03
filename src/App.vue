@@ -7,6 +7,8 @@
     <div>
       商品的功能
       <p>test goods</p>
+      <p>test goods2</p>
+
     </div>
 
     <div>
