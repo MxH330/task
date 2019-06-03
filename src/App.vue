@@ -44,6 +44,7 @@
 
     <div>
       客户的功能
+      <p>testCustoms</p>
     </div>
 
     <router-view></router-view>
