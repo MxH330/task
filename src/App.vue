@@ -12,11 +12,11 @@
 
 
     <ul>
-      <li>商品</li>
-      <li>商品</li>
-      <li>商品</li>
-      <li>商品</li>
-      <li>商品</li>
+      <li class="item">商品</li>
+      <li class="item">商品</li>
+      <li class="item">商品</li>
+      <li class="item">商品</li>
+      <li class="item">商品</li>
     </ul>
     </div>
 
