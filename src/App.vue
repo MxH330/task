@@ -10,6 +10,7 @@
 
     <div>
       店铺的功能
+      <p>test shops</p>
     </div>
 
     <div>
