@@ -26,6 +26,17 @@
 
     <div>
       客户的功能
+      <p>shops</p>
+      <p>shops</p>
+      <p>shops</p>
+      <p>shops</p>
+      <p>shops</p>
+      <p>shops</p>
+      <p>shops</p>
+      <p>shops</p>
+      <p>shops</p>
+      <p>shops</p>
+
     </div>
 
     <router-view></router-view>
